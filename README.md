@@ -1,4 +1,5 @@
 __**Reychi Bot Gizlilik Politikası**__
+
 Reychi'yi kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
 
 Hangi veriler saklanır?
